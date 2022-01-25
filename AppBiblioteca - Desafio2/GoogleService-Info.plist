@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>249811830388-l1bi5pkfhv2v82l88hsjrv0ec7jaj7sh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.249811830388-l1bi5pkfhv2v82l88hsjrv0ec7jaj7sh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnRqiWMrEgUw658c_R7TtBffJh_FeIWPs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>249811830388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Nery.AppBiblioteca---Desafio2</string>
+	<key>PROJECT_ID</key>
+	<string>app-biblioteca---desafio-2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-biblioteca---desafio-2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:249811830388:ios:11d215aa12e2a9308fb321</string>
+</dict>
+</plist>
