@@ -26,7 +26,7 @@ class LibrosViewController: UIViewController{
         
         let tableView = UITableView(frame: CGRect(x: 0, y: 10, width: width, height: heigth))
         
-        tableView.backgroundColor = .systemGray5
+        tableView.backgroundColor = .systemGray4
         tableView.layer.cornerRadius = 20
         
         tableView.delegate = self
@@ -70,7 +70,7 @@ extension LibrosViewController : UITableViewDelegate, UITableViewDataSource{
     func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         let view = UIView()
         
-        view.backgroundColor = .systemGray5
+        view.backgroundColor = .systemGray4
         
         let label = UILabel(frame: CGRect(x: 0, y: -2.5, width: width, height: 30))
         label.text = dataSource.titulo ?? ""
