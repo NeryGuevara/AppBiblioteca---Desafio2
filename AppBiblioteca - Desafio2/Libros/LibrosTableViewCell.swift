@@ -62,6 +62,7 @@ class LibrosTableViewCell: UITableViewCell {
         stringCategoria += libro?.categoria ?? "Categoría no encontrada"
         categoria.text = stringCategoria
         categoria.textAlignment = .left
+        
         ownContent.addSubview(categoria)
         
         imagenLibro = UIImageView(frame: CGRect(x: heigth/63 - 5, y: heigth/63 - 5, width: 2*heigth/27, height: heigth/9))
